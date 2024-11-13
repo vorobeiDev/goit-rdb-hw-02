@@ -12,7 +12,7 @@
 ![Order Table](./order.png)
 
 ### Order Product Table:
-![Order Product Table](./order-product.png.png)
+![Order Product Table](./order-product.png)
 
 ### Product Table:
 ![Product Table](./product.png)
